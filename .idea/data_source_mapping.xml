@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/312a5238-41d1-4c2c-8d64-052c3d626c14/console.sql" value="312a5238-41d1-4c2c-8d64-052c3d626c14" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sql/V2_create_table_candidate_voter_vote.sql" value="312a5238-41d1-4c2c-8d64-052c3d626c14" />
+  </component>
+</project>
